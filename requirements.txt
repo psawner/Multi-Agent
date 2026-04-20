@@ -1,0 +1,10 @@
+groq
+langchain
+langchain-groq
+langchain-core
+langchain-community
+python-dotenv
+tavily
+beautifulsoup4
+streamlit
+uvicorn
